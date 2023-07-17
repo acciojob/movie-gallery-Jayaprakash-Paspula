@@ -1,2 +1,21 @@
 
-/* Your CSS Code here. */
+img{
+	width:50px;
+	height:50px;
+}
+li{
+	display:inline-block;
+	list-style-type:none;
+}
+/*.Movie{
+	float:left;
+	width:100%;
+	padding:2px;
+	height:2px;
+}*/
+/*.second{
+float:left;
+	width:2px;
+	padding:2px;
+	height:2px;	
+}*/
